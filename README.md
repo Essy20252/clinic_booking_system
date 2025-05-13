@@ -31,7 +31,8 @@ It is designed to manage patients, doctors, appointments, and medical records ef
 ## 📊 ERD (Entity-Relationship Diagram)
 
 [Click here to view the ERD](#)  
-![ERD Diagram](./erd.png)
+![ERD Diagram](ERD.png)
+
 
 OR if you have the image locally:
 
