@@ -31,7 +31,7 @@ It is designed to manage patients, doctors, appointments, and medical records ef
 ## 📊 ERD (Entity-Relationship Diagram)
 
 [Click here to view the ERD](#)  
-*(Add your ERD image link or screenshot here)*
+![ERD Diagram](./erd.png)
 
 OR if you have the image locally:
 
@@ -40,7 +40,7 @@ OR if you have the image locally:
 
 - `clinic_booking_system.sql` – Full database structure
 - `README.md` – This file
-- `erd.png` – Entity Relationship Diagram (if available)
+- `erd.png` – Entity Relationship Diagram 
 
 ## 📌 Author
 
