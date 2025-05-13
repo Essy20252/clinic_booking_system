@@ -34,8 +34,6 @@ It is designed to manage patients, doctors, appointments, and medical records ef
 ![ERD Diagram](ERD.png)
 
 
-OR if you have the image locally:
-
 
 ## 📂 Files Included
 
